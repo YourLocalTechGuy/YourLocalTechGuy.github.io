@@ -1,2 +1,3 @@
-# YourLocalTechGuy.github.io
-My website (whatver i have on there)
+# YourLocalDevGuy Portfolio
+
+Personal portfolio and project showcase for YourLocalDevGuy.
